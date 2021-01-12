@@ -1,4 +1,4 @@
-# [Instagram Photo Downloader](https://KunalSingh19.github.io/Insta-photo-downloader) :fire:
+# [Instagram Photo Downloader](https://kunalsingh19.github.io/Insta-Photo-Downloader/) :fire:
 
 Free, Clean & Simple **Instagram Photo Downloader** for you. :slightly_smiling_face: <br>
 Download **Instagram Photos** in high quality with ease.<br>
